@@ -28,12 +28,14 @@
 ## Fonts
    
    + [Color-hex](http://www.color-hex.com/)
+   + [Color-Tools](https://color-tools.com/)
   
 ## Musica
 
    + [Jamendo](https://www.jamendo.com/)
    
-## HTML
+## FrontEnd
 
-   + [Jade Converter](http://html2jade.org/)
+  + HTML
+    + [Jade Converter](http://html2jade.org/)
     
