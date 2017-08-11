@@ -1,5 +1,11 @@
 # Lista de Enlaces a Recursos
 
+## Guias de markdown
+
+  + [Joe di castro](http://joedicastro.com/pages/markdown.html#mark4)
+  + [Markdown](https://markdown.es/sintaxis-markdown/)
+  
+
 ## Imgenes
 
   + Descargar
